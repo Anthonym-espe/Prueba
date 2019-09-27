@@ -6,8 +6,8 @@
 * Cédula: 17268214019
 * Dirección: Machachi
 # Lección N° 1
-1.- ¿Qué es un paradigma?
-2.- Realiza un cuadro representativo de los paradigmas
+1. ¿Qué es un paradigma?
+2. Realiza un cuadro representativo de los paradigmas
 # Conclusión
 *
 *
